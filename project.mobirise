@@ -54,7 +54,7 @@
     "versionPublish": "5.9.18",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/gitdata-logo_1.svg",
     "mbrsiteDomain": "ezgzfyzqee",
     "usedWebp": false,
     "cssOptimize": false,
@@ -73,7 +73,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
-    "publishEditFolder": true
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
